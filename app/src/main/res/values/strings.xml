@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Khawater</string>
+    <string name="ahmed_abdullah">Ahmed Abdullah</string>
+    <string name="days_ago">%1$d days ago</string>
+    <string name="likes_number">%1$d Likes</string>
+    <string name="sample_text">Sample Text goes her. Sample Text goes here. Sample Text goes here. Sample Text goes here.... Sample Text goes her. Sample Text goes here. Sample Text goes here. Sample Text goes here.... Sample Text goes her. Sample Text goes here. Sample Text goes here. Sample Text goes here.... </string>
+    <string name="hint_enter_khatera">Enter your khatera</string>
+    <string name="action_add_khatera">Add</string>
+    <string name="cancel_khatera">Cancel your Khatera</string>
+    <string name="cancel_khatera_confirmation">Are you sure you want to cancel writing khatera?</string>
+    <string name="warn_empty_khatera">Please enter Khatera first!</string>
+    <string name="share_with">Share with</string>
+    <string name="another_lang">عربي</string>
+</resources>

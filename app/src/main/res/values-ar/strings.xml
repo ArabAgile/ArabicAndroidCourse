@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">خواطر</string>
+    <string name="ahmed_abdullah">أحمد عبد الله</string>
+    <string name="days_ago">منذ %1$d يوم</string>
+    <string name="likes_number">%1$d إعجاب</string>
+    <string name="sample_text">نص للتجربة هنا. نص للتجربة هنا. نص للتجربة هنا. نص للتجربة هنا. نص للتجربة هنا. نص للتجربة هنا. نص للتجربة هنا. نص للتجربة هنا. ...</string>
+    <string name="hint_enter_khatera">أدخل خاطرتك</string>
+    <string name="action_add_khatera">إضافة</string>
+    <string name="cancel_khatera">إلغاء الخاطرة</string>
+    <string name="cancel_khatera_confirmation">هل أنت متأكد من إلغاء الخاطرة التي كتبتها؟</string>
+    <string name="warn_empty_khatera">الرجاء كتابة الخاطرة!</string>
+    <string name="share_with">مشاركة بواسطة</string>
+    <string name="another_lang">English</string>
+</resources>
